@@ -1,0 +1,42 @@
+[
+    {
+        "bandara_kode": "CGK",
+        "bandara_nama": "Soekarno Hatta"
+    },
+    {
+        "bandara_kode": "DPS",
+        "bandara_nama": "Ngurah Rai"
+    },
+    {
+        "bandara_kode": "SUB",
+        "bandara_nama": "Juanda"
+    },
+    {
+        "bandara_kode": "BTH",
+        "bandara_nama": "Hang Nadim"
+    },
+    {
+        "bandara_kode": "UPG",
+        "bandara_nama": "Hasanuddin"
+    },
+    {
+        "bandara_kode": "PLM",
+        "bandara_nama": "Sultan Mahmud Badaruddin II"
+    },
+    {
+        "bandara_kode": "PKU",
+        "bandara_nama": "Sultan Syarif Kasim II"
+    },
+    {
+        "bandara_kode": "MES",
+        "bandara_nama": "Polonia"
+    },
+    {
+        "bandara_kode": "PDG",
+        "bandara_nama": "Minangkabau"
+    },
+    {
+        "bandara_kode": "KNO",
+        "bandara_nama": "Husein Sastranegara"
+    }
+]

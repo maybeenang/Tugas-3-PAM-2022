@@ -1,0 +1,27 @@
+[
+    {
+        "maskapai_id": 1,
+        "maskapai_nama": "Garuda Indonesia",
+        "maskapai_logo": "./assets/logo/garudaIndonesa.png"
+    },
+    {
+        "maskapai_id": 2,
+        "maskapai_nama": "Lion Air",
+        "maskapai_logo": "./assets/logo/lionAir.png"
+    },
+    {
+        "maskapai_id": 3,
+        "maskapai_nama": "Citilink",
+        "maskapai_logo": "./assets/logo/citilink.png"
+    },
+    {
+        "maskapai_id": 4,
+        "maskapai_nama": "Batik Air",
+        "maskapai_logo": "./assets/logo/batikAir.png"
+    },
+    {
+        "maskapai_id": 5,
+        "maskapai_nama": "Sriwijaya Air",
+        "maskapai_logo": "./assets/logo/sriwijayaAir.png"
+    }
+]

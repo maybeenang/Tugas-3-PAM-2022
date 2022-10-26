@@ -1,0 +1,65 @@
+[
+    {
+        "jadwal_id": 1,
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "DPS",
+        "maskapai_id": 1,
+        "jadwal_tanggal": "2022-10-20"
+    },
+    {
+        "jadwal_id": 11,
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "DPS",
+        "maskapai_id": 2,
+        "jadwal_tanggal": "2022-10-20"
+    },
+    {
+        "jadwal_id": 12,
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "DPS",
+        "maskapai_id": 3,
+        "jadwal_tanggal": "2022-10-20"
+    },
+    {
+        "jadwal_id": 2,
+        "bandara_kode_keberangkatan": "SUB",
+        "bandara_kode_tujuan": "PLM",
+        "maskapai_id": 2,
+        "jadwal_tanggal": "2022-10-20"
+    },
+    {
+        "jadwal_id": 3,
+        "bandara_kode_keberangkatan": "DPS",
+        "bandara_kode_tujuan": "UPG",
+        "maskapai_id": 3,
+        "jadwal_tanggal": "2022-10-20"
+    },
+    {
+        "jadwal_id": 4,
+        "bandara_kode_keberangkatan": "PLM",
+        "bandara_kode_tujuan": "UPG",
+        "maskapai_id": 2,
+        "jadwal_tanggal": "2022-10-21"
+    },
+    {
+        "jadwal_id": 5,
+        "bandara_kode_keberangkatan": "SUB",
+        "bandara_kode_tujuan": "CGK",
+        "maskapai_id": 3,
+        "jadwal_tanggal": "2022-10-22"
+    },
+    {
+        "jadwal_id": 6,
+        "bandara_kode_keberangkatan": "KNO",
+        "bandara_kode_tujuan": "MES",
+        "maskapai_id": 4,
+        "jadwal_tanggal": "2022-10-23"
+    },
+    {
+        "jadwal_id": 7,
+        "bandara_kode_keberangkatan": "PKU",
+        "bandara_kode_tujuan": "PDG",
+        "maskapai_id": 5,
+        "jadwal_tanggal": "2022-10-24"
+    }
+]

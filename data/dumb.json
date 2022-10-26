@@ -1,0 +1,23 @@
+[
+    {
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "DPS",
+        "jadwal_id": 1,
+        "jadwal_tanggal": "2022-10-20",
+        "maskapai_id": 1
+    },
+    {
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "DPS",
+        "jadwal_id": 11,
+        "jadwal_tanggal": "2022-10-20",
+        "maskapai_id": 2
+    },
+    {
+        "bandara_kode_keberangkatan": "CGK",
+        "bandara_kode_tujuan": "DPS",
+        "jadwal_id": 12,
+        "jadwal_tanggal": "2022-10-20",
+        "maskapai_id": 3
+    }
+]
