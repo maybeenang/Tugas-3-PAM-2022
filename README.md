@@ -62,8 +62,8 @@ Download the app from the link that is given on the terminal.
 
 ## Screenshot
 
-![Screenshot](./assets/home.jpeg)
-![Screenshot](./assets/detail.jpeg)
+<img src="./assets/home.jpeg" width=200>
+<img src="./assets/detail.jpeg" width=200>
 
 ## Author
 
